@@ -2,7 +2,7 @@
   <app-navbar (featureSelect)="onNavigate($event)"></app-navbar>
   <div class="row">
     <div class="col-md-12">
-      <p *ngIf="loadedFeature === 'beranda'">Beranda</p>
+      <app-hero *ngIf="loadedFeature === 'beranda'"></app-hero>
       <app-produk *ngIf="loadedFeature === 'produk'"></app-produk>
       <app-kandungan *ngIf="loadedFeature === 'kandungan'"></app-kandungan>
     </div>

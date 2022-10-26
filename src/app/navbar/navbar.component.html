@@ -1,22 +1,51 @@
-<nav class="navbar navbar-default">
+<nav
+  class="navbar navbar-default navbar-expand-lg navbar-light bg-light"
+  role="navigation"
+>
   <div class="container-fluid">
-
     <!-- nama brand -->
     <div class="navbar-header">
-      <a href="/" class="navbar-brand"><img src="../../assets/skinsight.png" alt="" class="img-responsive" id="brand"></a>
+      <a href="/" class="navbar-brand"
+        ><img
+          src="../../assets/skinsight.png"
+          alt=""
+          class="img-responsive"
+          id="brand"
+      /></a>
     </div>
 
-    <!-- navbar utama -->
-    <div class="collapse navbar-collapse">
+    <!-- tombol toggler -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+      (click)="toggleCollapsed()"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <!-- content didalam navbar ketika collapse -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{'collapse': collapsed, 'navbar-collapse': true}">
       <!-- navbar utama sisi kiri -->
-      <ul class="nav navbar-nav">
-        <li><a href="/">Beranda</a></li>
-        <li><a href="#" (click)="onSelect('produk')">Produk</a></li>
-        <li><a href="#" (click)="onSelect('kandungan')">Kandungan</a></li>
-      </ul>
-
+      <div class="navbar-nav">
+        <ul class="navbar-nav me-auto mt-1 mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a href="/" class="nav-link">Beranda</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link" (click)="onSelect('produk')">Produk</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link" (click)="onSelect('kandungan')"
+              >Kandungan</a
+            >
+          </li>
+        </ul>
+      </div>
     </div>
-
   </div>
 </nav>

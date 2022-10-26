@@ -7,6 +7,8 @@ import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
+  collapsed = true;
+
   // memilih suatu fitur
   @Output() featureSelect = new EventEmitter<String>();
 
@@ -18,6 +20,10 @@ export class NavbarComponent implements OnInit {
   // fitur yang dipilih akan dilakukan
   onSelect(feature: String){
     this.featureSelect.emit(feature)
+  }
+
+  toggleCollapsed(): void {
+    this.collapsed = !this.collapsed;
   }
 
 }
