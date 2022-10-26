@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'skinsight-angular';
+  title = 'Skinsight';
+
+  loadedFeature = 'beranda';
+  onNavigate(feature: string){
+    this.loadedFeature = feature;
+  }
 }
