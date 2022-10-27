@@ -3,6 +3,7 @@
   role="navigation"
 >
   <div class="container-fluid">
+
     <!-- nama brand -->
     <div class="navbar-header">
       <a href="/" class="navbar-brand"
@@ -30,22 +31,24 @@
 
     <!-- content didalam navbar ketika collapse -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{'collapse': collapsed, 'navbar-collapse': true}">
-      <!-- navbar utama sisi kiri -->
-      <div class="navbar-nav">
-        <ul class="navbar-nav me-auto mt-1 mb-2 mb-lg-0">
+
+      <!-- navbar utama sisi kanan -->
+      <div class="navbar-nav nav ms-auto">
+        <ul class="navbar-nav mt-1 mb-2 mb-lg-0">
           <li class="nav-item">
             <a href="/" class="nav-link">Beranda</a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link" (click)="onSelect('produk')">Produk</a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link" (click)="onSelect('kandungan')"
               >Kandungan</a
             >
           </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link" (click)="onSelect('produk')">Produk</a>
+          </li>
         </ul>
       </div>
+
     </div>
   </div>
 </nav>
