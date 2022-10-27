@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit, Output, EventEmitter } from '@angular/core';
 import { Produk } from '../../produk.model';
 
 @Component({
@@ -8,11 +8,20 @@ import { Produk } from '../../produk.model';
 })
 export class ItemProdukComponent implements OnInit {
 
+  // menginisilisasi object produk dari model
   @Input() produk: Produk;
+
+  // menginisilisasi variabel 'produk yang dipilih'
+  @Output() produkSelected = new EventEmitter<Produk>();
 
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  // fungsi ketika ada produk yang dipilih
+  onSelected(){
+    this.produkSelected.emit();
   }
 
 }

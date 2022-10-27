@@ -1,3 +1,4 @@
+// inisialisasi variabel pada object produk
 export class Produk{
   public id: number = 0;
   public nama: String;

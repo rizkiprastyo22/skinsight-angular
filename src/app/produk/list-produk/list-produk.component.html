@@ -1,7 +1,11 @@
-<div class="row">
+<div class="row background shadow">
   <div class="col-xs-12">
+
+  <!-- ambil seluruh instance produk yang ada -->
     <app-item-produk
     *ngFor="let produkEl of produks"
-    [produk]="produkEl"></app-item-produk>
+    [produk]="produkEl"
+    (produkSelected)="onProdukSelected(produkEl)"></app-item-produk>
+
   </div>
 </div>

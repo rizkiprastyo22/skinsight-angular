@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Kandungan } from './kandungan.model';
 
 @Component({
   selector: 'app-kandungan',
@@ -6,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./kandungan.component.css']
 })
 export class KandunganComponent implements OnInit {
+
+  // mendefinisikan variabel dari model
+  selectedKandungan: Kandungan;
 
   constructor() { }
 

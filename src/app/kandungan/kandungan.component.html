@@ -3,11 +3,30 @@
 <!-- List Kandungan -->
 <div class="container">
   <div class="row mt-5">
+
+    <!-- Kolom pertama -->
     <div class="col-lg-4">
-      <app-list-kandungan></app-list-kandungan>
+
+      <!-- ambil referensi dari list kandungan -->
+      <app-list-kandungan
+        (kandunganWasSelected)="selectedKandungan = $event">
+      </app-list-kandungan>
+
     </div>
+
+    <!-- Kolom kedua -->
     <div class="col-lg-8">
-      <app-detail-kandungan></app-detail-kandungan>
+
+      <!-- ambil referensi dari detail kandungan -->
+      <app-detail-kandungan
+      *ngIf="selectedKandungan; else infoText"
+      [kandungan]="selectedKandungan"></app-detail-kandungan>
+
+      <!-- Jika tidak ada detail yang dipilih -->
+      <ng-template #infoText>
+        <p>Mohon pilih kandungan yang ingin dilihat detailnya!</p>
+      </ng-template>
+
     </div>
   </div>
 </div>

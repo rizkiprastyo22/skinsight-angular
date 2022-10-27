@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { Produk } from '../produk.model';
 
 @Component({
   selector: 'app-detail-produk',
@@ -6,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./detail-produk.component.css']
 })
 export class DetailProdukComponent implements OnInit {
+
+  // inisialisasi variabel produk dari model
+  @Input() produk: Produk;
 
   constructor() { }
 

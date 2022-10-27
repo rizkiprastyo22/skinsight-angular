@@ -1,11 +1,31 @@
 <app-hero-produk></app-hero-produk>
+
+<!-- List Kandungan -->
 <div class="container">
   <div class="row mt-5">
+
+    <!-- Kolom pertama -->
     <div class="col-lg-4">
-      <app-list-produk></app-list-produk>
+
+      <!-- ambil referensi dari list produk -->
+      <app-list-produk
+        (produkWasSelected)="selectedProduk = $event">
+      </app-list-produk>
+
     </div>
+
+    <!-- Kolom kedua -->
     <div class="col-lg-8">
-      <app-detail-produk></app-detail-produk>
+
+      <!-- ambil referensi dari detail kandungan -->
+      <app-detail-produk
+      *ngIf="selectedProduk; else infoText"
+      [produk]="selectedProduk"></app-detail-produk>
+
+      <!-- jika tidak ada detail yang dipilih -->
+      <ng-template #infoText>
+        <p>Silakan pilih produk yang ingin dilihat detailnya!</p>
+      </ng-template>
     </div>
   </div>
 </div>
