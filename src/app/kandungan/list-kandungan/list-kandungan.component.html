@@ -1,5 +1,7 @@
 <div class="row background shadow">
   <div class="col-xs-12">
-    <app-item-kandungan></app-item-kandungan>
+    <app-item-kandungan
+    *ngFor="let kandunganEl of kandungans"
+    [kandungan]="kandunganEl"></app-item-kandungan>
   </div>
 </div>

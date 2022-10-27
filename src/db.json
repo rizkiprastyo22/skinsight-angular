@@ -1,0 +1,2170 @@
+{
+  "bestproducts": [
+    {
+      "id": 1,
+      "nama": "Skin10004",
+      "merk": "Madagascar Centella Toning",
+      "deskripsi": "Madagascar Centella Toning",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "madagascar-centella-toning.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Centella Asiatica Extract",
+          "fungsi": "Menenangkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 2,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 3,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 4,
+          "nama": "Dipropylene glycol",
+          "fungsi": "Pelarut, pewangi, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Niacinamide",
+          "fungsi": "Berkomunikasi dengan sel, pencerah, mencegah jerawat, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Gluconolactone",
+          "fungsi": "Eksfolian",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 7,
+          "nama": "Tromethamine",
+          "fungsi": "Penyangga",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 8,
+          "nama": "Carbomer",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 9,
+          "nama": "Sodium citrate",
+          "fungsi": "Penyangga",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Adenosine",
+          "fungsi": "Berkomunikasi dengan sel",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 11,
+          "nama": "Disodium edta",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 12,
+          "nama": "Dipotassium glycyrrhizate",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 13,
+          "nama": "Betaine",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 14,
+          "nama": "Hyaluronic acid",
+          "fungsi": "Bahan yang mirip kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 15,
+          "nama": "Ethylhexylglycerin",
+          "fungsi": "Pengawet",
+          "ewg": 1,
+          "cir": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Lacoco en nature",
+      "merk": "Darkspot Essence",
+      "deskripsi": "Darkspot Essence",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "miracle-toner.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 2,
+          "nama": "Propylene glycol",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 3,
+          "cir": "B"
+        },
+        {
+          "id": 3,
+          "nama": "Glycolic acid",
+          "fungsi": "Eksfolian, penyangga",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 4,
+          "nama": "Niacinamide",
+          "fungsi": "Berkomunikasi dengan sel, mencerahkan kulit, mencegah jerawat, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Glycerin",
+          "fungsi": "Bahan yang mirip kulit, melembabkan kulit",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Gluconolactone",
+          "fungsi": "Eksfolian",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 7,
+          "nama": "Tranexamic acid",
+          "fungsi": "Mencerahkan kulit",
+          "ewg": "-",
+          "cir": "-"
+        },
+        {
+          "id": 8,
+          "nama": "Salicylic acid",
+          "fungsi": "Eksfolian, mencegah jerawat, menenangkan kulit, pengawet",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 9,
+          "nama": "Xanthan gum",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Morus alba fruit (mulberry) extract",
+          "fungsi": "Antioksidan",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 11,
+          "nama": "Daucus carota sativa (carrot) root extract",
+          "fungsi": "Antioksidan",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 12,
+          "nama": "Butylene glycol",
+          "fungsi": "Melembabkan kulit, pelarut, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 13,
+          "nama": "Sodium hydroxymethylglycinate",
+          "fungsi": "Pengawet",
+          "ewg": 6,
+          "cir": "-"
+        },
+        {
+          "id": 14,
+          "nama": "Aloe Barbadensis Leaf Extract",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 15,
+          "nama": "Glycyrrhiza Uralensis (Licorice) Root Extract",
+          "fungsi": "",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 16,
+          "nama": "Tetrasodium EDTA",
+          "fungsi": "",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 17,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "COSRX",
+      "merk": "AHA/BHA Clarifying Toner",
+      "deskripsi": "AHA/BHA Clarifying Toner",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "your-skin-bae.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 2,
+          "nama": "Salix Alba (Willow) Bark Water",
+          "fungsi": "Menenangkan kulit",
+          "ewg": "-",
+          "cir": "-"
+        },
+        {
+          "id": 3,
+          "nama": "Pyrus Malus (Apple) Fruit Water",
+          "fungsi": "-",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 4,
+          "nama": "Butylene glycol",
+          "fungsi": "Melembabkan kulit, pelarut, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Sodium lactate",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 3,
+          "cir": "B"
+        },
+        {
+          "id": 7,
+          "nama": "Glycolic acid",
+          "fungsi": "Eksfolian, penyangga",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 8,
+          "nama": "Betaine salicylate",
+          "fungsi": "Eksfolian, antibakteri",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 9,
+          "nama": "Allantoin",
+          "fungsi": "Menenangkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Panthenol",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 11,
+          "nama": "Ethyl hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 3,
+          "cir": "A"
+        }
+      ]
+    }
+  ],
+  "bestkandungan": [
+    {
+      "id": 1,
+      "nama": "Hyaluronic Acid",
+      "nama_lain": "Hyaluronic Acid",
+      "nama_iupac": "Hyaluronic Acid",
+      "fungsi": "Antistatik, Humektan, Pelembab, Skin Conditioner",
+      "deskripsi": "Antistatik, Humektan, Pelembab, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        },
+        {
+          "id": 4,
+          "nama": "International Journal of Cosmetic Science, Volume 37 (4) – Aug 1, 2015, Stability determination of the formulations containing hyaluronic acid."
+        },
+        {
+          "id": 5,
+          "nama": "Journal of immunology, 2008 Aug 1, Low Molecular Weight Hyaluronic Acid Increases the Self-Defense of Skin Epithelium by Induction of β-Defensin 2 via TLR2 and TLR4."
+        },
+        {
+          "id": 6,
+          "nama": "SOFW Journal, 11-2008, M. Farwick, P. Lersch, G. Strutz (Evonik), Low Molecular Weight Hyaluronic Acid: Its Effects on Epidermal Gene Expression and Skin Ageing."
+        },
+        {
+          "id": 7,
+          "nama": "Journal of drugs in dermatology : JDD., 2011 Sep;10(9):990-1000., Efficacy of cream-based novel formulations of hyaluronic acid of different molecular weights in anti-wrinkle treatment."
+        },
+        {
+          "id": 8,
+          "nama": "The Journal of clinical and aesthetic dermatology., 2012 Oct;5(10):20-3., Efficacy and safety of a low-molecular weight hyaluronic Acid topical gel in the treatment of facial seborrheic dermatitis."
+        },
+        {
+          "id": 9,
+          "nama": "Journal of drugs in dermatology : JDD., June 2013 | Volume 12 | Issue 6, Efficacy and Tolerability of Low Molecular Weight Hyaluronic Acid Sodium Salt 0.2% Cream in Rosacea."
+        },
+        {
+          "id": 10,
+          "nama": "Journal of theoretical biology, 1986 Mar 21;119(2):219-34., A model for the role of hyaluronic acid and fibrin in the early events during the inflammatory response and wound healing."
+        },
+        {
+          "id": 11,
+          "nama": "The Journal of clinical investigation., 1996 Nov 15;98(10):2403-13., Hyaluronan (HA) fragments induce chemokine gene expression in alveolar macrophages. The role of HA size and CD44."
+        },
+        {
+          "id": 12,
+          "nama": "American journal of respiratory cell and molecular biology, 2011 October, Hyaluronan fragments promote inflammation by down-regulating the anti-inflammatory A2a receptor."
+        },
+        {
+          "id": 13,
+          "nama": "Immunol Res. Author manuscript; available in PMC 2014 Jul 22., Tissue integrity signals communicated by high-molecular weight hyaluronan and the resolution of inflammation."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    },
+    {
+      "id": 2,
+      "nama": "Glycerine",
+      "nama_lain": "Glycerol",
+      "nama_iupac": "Glycerine; Glycerol (Inn); Glycerol (Rifm); Glycerolum (Ep); Glycyl Alcohol; 1,2,3-Propanetriol; 1,2,3-Trihydroxypropane",
+      "fungsi": "Denaturant, Hair Conditioner, Humektan, Perawatan Mulut, Pewangi, Skin Conditioner, Pelindung Kulit, Pelarut, Pengontrol Kekentalan",
+      "deskripsi": "Denaturant, Hair Conditioner, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Tidak hanya sebagai pelembab",
+          "deskripsi": "Gliserin dapat menjaga lipid kulit diantara sel-sel kulit kita dalam keadaan sehat, melindungi dari iritasi, dan membantu memulihkan barrier."
+        },
+        {
+          "id": 2,
+          "nama": "Merawat kulit yang sangat kering",
+          "deskripsi": "Pelembab gliserin tinggi sangat bagus untuk merawat kulit yang sangat kering."
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Gliserin telah digunakan dalam kosmetik selama lebih dari 50 tahun dan merupakan bahan yang benar-benar alami yang juga berada di lapisan terluar kulit kita (disebut stratum korneum atau SC)."
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Gliserin adalah jenis pelembab yang disebut humektan yang berarti membantu kulit kita menempel pada air. Sebuah studi tahun 2005 telah menunjukkan bahwa kadar gliserin berkorelasi dengan tingkat hidrasi kulit, sehingga lebih banyak gliserin berarti kulit terhidrasi lebih baik."
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "Ketika studi baru meneliti gliserin, ternyata gliserin bukan hanya humektan sederhana tetapi juga melakukan beberapa hal penting lainnya, yaitu memastikan bahwa hal-hal lengket di antara sel-sel kulit tidak terlalu encer atau terlalu pekat (disebut osmoregulasi); membantu menjaga keadaan membran sel dan lipid intraseluler yang sehat (menjaga lipid dalam keadaan kristal cair yang bagus dan optimal untuk fungsi penghalang); dapat menormalkan kerontokan kulit pada kulit yang sangat kering; melindungi dari iritasi kulit (seperti mencuci muka terlalu banyak dan/atau terlalu agresif)."
+        },
+        {
+          "id": 4,
+          "sub_judul": null,
+          "deskripsi": "Sebuah studi skala besar yang dilakukan dengan 394 pria dan wanita dengan kulit kering membandingkan dua pelembab gliserin tinggi (mengandung 25% dan 40% gliserin) dengan 16 pelembab populer lainnya di pasaran (yang memiliki kurang dari 6% gliserin). Dua yang tinggi gliserin menang telak. Mereka memiliki sifat hidrasi yang unggul dan bertindak cepat dan mereka juga tampaknya menciptakan 'reservoir' kemampuan menahan kelembaban di kulit. Bahkan setelah tidak menggunakan pelembab gliserin tinggi, kulit tetap terhidrasi lebih lama dibandingkan dengan semua pelembab gliserin rendah lainnya."
+        },
+        {
+          "id": 5,
+          "sub_judul": null,
+          "deskripsi": "100% gliserin murni juga tidak baik untuk kulit. Terlalu banyak gliserin (dan pada umumnya humektan) dapat menarik air keluar dari lapisan bawah kulit. Itu menjadi masalah karena begitu air berada di lapisan atas, sebagian akan menguap. Hal ini disebut trans-epidermal-water-loss (TEWL). Jika terlalu banyak TEWL terjadi, maka kulit menjadi kering."
+        },
+        {
+          "id": 6,
+          "sub_judul": null,
+          "deskripsi": "Hal ini dikonfirmasi oleh sebuah penelitian juga: kulit yang diberi 99,7% gliserin selama 5 hari menunjukkan bahwa setelah perawatan, SC (lapisan terluar dari kulit) tidak terlihat berbeda dari kontrol yang tidak diobati. Studi yang sama juga memeriksa kulit yang dirawat dengan lotion gliserin 25% dan disana SC memiliki penampilan yang tampak berbeda, mengembang - dengan kata lain lebih terhidrasi."
+        }
+      ],
+      "kesimpulan":"Jadi intinya: gliserin adalah barang yang nyata dan jauh lebih dari sekadar pelembab sederhana.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Leslie Baumann, MD, Cosmetic Dermatology, 2nd edition, Glycerin- pages 275."
+        },
+        {
+          "id": 2,
+          "nama": "The Journal of investigative dermatology., 2005 Aug;125(2):288-93., Is endogenous glycerol a determinant of stratum corneum hydration in humans?."
+        },
+        {
+          "id": 3,
+          "nama": "Dry Skin and Moisturizers: Chemistry and Function, Marie Loden, Howard I. Maibach, chapter 20: Glycerol — Just a Moisturizer? Biological and Biophysical Effects."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Glycerin.png"
+    },
+    {
+      "id": 3,
+      "nama": "Ascorbic Acid",
+      "nama_lain": "Vitamin C, L-ascorbic Acid",
+      "nama_iupac": "Ascorbic Acid",
+      "fungsi": "Antioksidan, Buffering, Masking, Skin Conditioner",
+      "deskripsi": "Antioksidan, Buffering, Masking, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Meningkatkan produksi kolagen kulit sendiri",
+          "deskripsi": null
+        },
+        {
+          "id": 2,
+          "nama": "Memudarkan pigmentasi dan bintik-bintik coklat",
+          "deskripsi": null
+        },
+        {
+          "id": 3,
+          "nama": "Jika digunakan di bawah sunscreen akan meningkatkan perlindungan UV-nya",
+          "deskripsi": null
+        },
+        {
+          "id": 4,
+          "nama": "Sangat tidak stabil dan sangat mudah teroksidasi dengan adanya cahaya atau udara",
+          "deskripsi": null
+        },
+        {
+          "id": 5,
+          "nama": "Vit E + C bekerja secara sinergis dan memberikan perlindungan foto yang luar biasa",
+          "deskripsi": null
+        },
+        {
+          "id": 6,
+          "nama": "Asam ferulat menggandakan efek fotoproteksi Vit C+E dan membantu menstabilkan Vitamin C",
+          "deskripsi": null
+        },
+        {
+          "id": 7,
+          "nama": "Serum vitamin C dapat menyebabkan sedikit kesemutan pada kulit sensitif",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Pada abad ke-18 para pelaut memperhatikan bahwa jika mereka makan banyak buah jeruk yang membantu mencegah penyakit kudis (penyakit jelek yang menyebabkan gusi berdarah dan hal-hal buruk lainnya - yang disebabkan oleh kekurangan Vit C). Pada saat itu mereka tidak tahu apa yang ada di dalam buah jeruk yang dapat membantu. Para ilmuwan hanya berhasil mengetahui pada tahun 1930-an apa itu Vitamin C."
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Sejak itu telah banyak diteliti, vitamin yang ternyata memiliki manfaat kesehatan yang luar biasa tidak hanya untuk tubuh kita tetapi juga untuk kulit kita. Ini adalah antioksidan utama yang larut dalam air di jaringan kita dan memainkan peran besar dalam proses rumit di mana kulit kita menciptakan kolagen baru yang mengencangkan kulit."
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "Jadi sangat baik memiliki banyak Vit C di tubuh kita dan di kulit kita, tetapi tubuh kita tidak dapat membuatnya sendiri (fakta menyenangkan: beberapa hewan, seperti tikus bisa!). Kita harus mengambil seluruhnya dari sumber luar seperti buah jeruk, kismis hitam, paprika merah atau jambu biji misalnya adalah makanan kaya Vit C yang luar biasa yang harus dimakan secara teratur."
+        },
+        {
+          "id": 4,
+          "sub_judul": null,
+          "deskripsi": "Mengoleskan krim atau serum Vit C pada kulit kita benar-benar membantu dalam hal berikut ini:"
+        },
+        {
+          "id": 5,
+          "sub_judul": "Penguat antioksidan dan perlindungan UV yang hebat",
+          "deskripsi": "Beberapa penelitian menunjukkan bahwa kulit hewan yang diobati dengan asam askorbat topikal memiliki lebih sedikit kemerahan pada kulit (disebut eritema), lebih sedikit sel kulit yang terbakar sinar matahari, dan penurunan pembentukan tumor setelah paparan sinar UV."
+        },
+        {
+          "id": 6,
+          "sub_judul": null,
+          "deskripsi": "Sehingga bagus untuk menggunakan serum Vit C di pagi hari di bawah sunscreen (bukan sebagai gantinya!). Untuk perlindungan yang lebih baik, pilihlah serum yang mengandung Vit E serta menggandakan sifat fotoproteksi Vit C. Asam ferulat menggandakan lebih lanjut fotoproteksi Vit C + E."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Jadi trio ini, Vit C + E + asam Ferulat benar-benar efektif. Jika Anda ingin melindungi kulit Anda dari sinar UV (dan seharusnya jika Anda menginginkan kulit yang indah untuk waktu yang lama), Anda harus mencoba serum yang mengandung trio ajaib. (ini ditemukan oleh peneliti Amerika, Sheldon Pinnell pada tahun 2005 dan Skinceuticals CE Ferulic Serum adalah yang pertama di pasaran yang mengandung ketiga bahan aktif tersebut)."
+        },
+        {
+          "id": 8,
+          "sub_judul": "Membantu kulit membuat kolagen yang bagus",
+          "deskripsi": "Kolagen membantu menjaga kulit kita tetap kencang dan bebas kerut. Meningkatkan produksi kolagen dapat dilakukan oleh vitamin C. Dalam sebuah penelitian dari tahun 1999, serum Vit C 10% (Cellex-C) terbukti mengurangi kerutan ketika diterapkan selama periode 3 bulan. Beberapa tahun kemudian, penelitian lain menggunakan krim 5% Vit C selama periode 6 bulan menunjukkan peningkatan yang signifikan secara statistik dalam hidrasi kulit, kerutan, silau, bintik-bintik coklat, dan kepadatan kulit."
+        },
+        {
+          "id": 9,
+          "sub_judul": "Memudarkan flek coklat",
+          "deskripsi": "Bintik-bintik coklat atau hiperpigmentasi tidak bagus dan sejujurnya sangat sulit untuk memudar hanya dengan perawatan kulit, tapi Vit C bisa membantu. Agar bintik-bintik coklat terbentuk di dalam tubuh, diperlukan enzim (zat yang membantu reaksi kimia dalam tubuh kita) yang disebut tirosinase. Vit C bekerja dengan cara menghambat enzim ini sehingga bintik-bintik coklat tidak dapat terbentuk secara efektif."
+        },
+        {
+          "id": 10,
+          "sub_judul": "Namun, Vit C memiliki kekurangan antara lain:",
+          "deskripsi": "- Sangat tidak stabil, sangat mudah teroksidasi"
+        },
+        {
+          "id": 11,
+          "sub_judul": null,
+          "deskripsi": "- Jika Anda pernah mencoba serum Vit C murni dan Anda belum menggunakannya dalam satu atau dua bulan maka Anda pasti memperhatikan bahwa kulit berubah warna dan mulai menjadi kecoklatan. Itu adalah contoh Vit C yang salah dalam produk."
+        },
+        {
+          "id": 12,
+          "sub_judul": null,
+          "deskripsi": "- Tidak mudah menembus kulit"
+        },
+        {
+          "id": 13,
+          "sub_judul": null,
+          "deskripsi": "- Vit C larut dalam air dan kulit tidak tertarik pada hal-hal yang larut dalam air melainkan pada hal-hal yang larut dalam minyak. Jadi ini membuatnya sedikit sulit bagi Vit C untuk benar-benar masuk ke kulit Anda. Tapi kabar baiknya: pH rendah (sekali lagi di bawah 3,5 pH) memecahkan masalah, jadi carilah serum Vit C berbasis air yang menyatakan bahwa mereka memiliki pH yang tepat atau formula tanpa air juga bisa bekerja."
+        },
+        {
+          "id": 14,
+          "sub_judul": null,
+          "deskripsi": "- Jumlah Vit C yang tinggi dapat mengiritasi kulit sensitif"
+        },
+        {
+          "id": 15,
+          "sub_judul": null,
+          "deskripsi": "- Sedikit kesemutan cukup normal tetapi jika kulit Anda super sensitif, rosacea rawan terhadap serum Vit C yang sangat kuat (di atas 10%)."
+        }
+      ],
+      "kesimpulan":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Journal of Cosmetic Dermatology, Volume 11 (4) – Dec 1, 2012, Stability, transdermal penetration, and cutaneous effects of ascorbic acid and its derivatives."
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Cosmetic Dermatology, Volume 4 (1) – Jan 1, 2005, Relevance of vitamins C and E in cutaneous photoprotection."
+        },
+        {
+          "id": 3,
+          "nama": "Dermatologic Surgery, Volume 27 (2) – Feb 1, 2001, Topical L‐Ascorbic Acid: Percutaneous Absorption Studies."
+        },
+        {
+          "id": 4,
+          "nama": "The Journal of investigative dermatology., 2005 Oct;125(4):826-32., Ferulic acid stabilizes a solution of vitamins C and E and doubles its photoprotection of skin."
+        },
+        {
+          "id": 5,
+          "nama": "Arch Otolaryngol Head Neck Surg. 1999;125(10):1091-1098., Use of Topical Ascorbic Acid and Its Effects on Photodamaged Skin Topography."
+        },
+        {
+          "id": 6,
+          "nama": "Exp Dermatol. 2003 Jun;12(3):237-44.,Topical ascorbic acid on photoaged skin."
+        },
+        {
+          "id": 7,
+          "nama": "International Journal of Pharmaceutics, Volume 133 (1)– May 14, 1996, Glutathione stabilizes ascorbic acid in aqueous solution."
+        },
+        {
+          "id": 8,
+          "nama": "International Journal of Pharmaceutics, Sep 28, 2006, , Volume 322 (1) – Influence of sodium metabisulfite and glutathione on the stability of vitamin C in O/W emulsion and extemporaneous aqueous gel."
+        },
+        {
+          "id": 9,
+          "nama": "Leslie Baumann, MD, Cosmetic Dermatology, 2nd edition, Vitamin C - pages 297-298."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nama": "Skin10004",
+      "merk": "Madagascar Centella Toning",
+      "deskripsi": "Madagascar Centella Toning",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "madagascar-centella-toning.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Centella Asiatica Extract",
+          "fungsi": "Menenangkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 2,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 3,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 4,
+          "nama": "Dipropylene glycol",
+          "fungsi": "Pelarut, pewangi, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Niacinamide",
+          "fungsi": "Berkomunikasi dengan sel, pencerah, mencegah jerawat, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Gluconolactone",
+          "fungsi": "Eksfolian",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 7,
+          "nama": "Tromethamine",
+          "fungsi": "Penyangga",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 8,
+          "nama": "Carbomer",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 9,
+          "nama": "Sodium citrate",
+          "fungsi": "Penyangga",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Adenosine",
+          "fungsi": "Berkomunikasi dengan sel",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 11,
+          "nama": "Disodium edta",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 12,
+          "nama": "Dipotassium glycyrrhizate",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 13,
+          "nama": "Betaine",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 14,
+          "nama": "Hyaluronic acid",
+          "fungsi": "Bahan yang mirip kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 15,
+          "nama": "Ethylhexylglycerin",
+          "fungsi": "Pengawet",
+          "ewg": 1,
+          "cir": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Lacoco en nature",
+      "merk": "Darkspot Essence",
+      "deskripsi": "Darkspot Essence",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "miracle-toner.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 2,
+          "nama": "Propylene glycol",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 3,
+          "cir": "B"
+        },
+        {
+          "id": 3,
+          "nama": "Glycolic acid",
+          "fungsi": "Eksfolian, penyangga",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 4,
+          "nama": "Niacinamide",
+          "fungsi": "Berkomunikasi dengan sel, mencerahkan kulit, mencegah jerawat, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Glycerin",
+          "fungsi": "Bahan yang mirip kulit, melembabkan kulit",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Gluconolactone",
+          "fungsi": "Eksfolian",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 7,
+          "nama": "Tranexamic acid",
+          "fungsi": "Mencerahkan kulit",
+          "ewg": "-",
+          "cir": "-"
+        },
+        {
+          "id": 8,
+          "nama": "Salicylic acid",
+          "fungsi": "Eksfolian, mencegah jerawat, menenangkan kulit, pengawet",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 9,
+          "nama": "Xanthan gum",
+          "fungsi": "Mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Morus alba fruit (mulberry) extract",
+          "fungsi": "Antioksidan",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 11,
+          "nama": "Daucus carota sativa (carrot) root extract",
+          "fungsi": "Antioksidan",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 12,
+          "nama": "Butylene glycol",
+          "fungsi": "Melembabkan kulit, pelarut, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 13,
+          "nama": "Sodium hydroxymethylglycinate",
+          "fungsi": "Pengawet",
+          "ewg": 6,
+          "cir": "-"
+        },
+        {
+          "id": 14,
+          "nama": "Aloe Barbadensis Leaf Extract",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 15,
+          "nama": "Glycyrrhiza Uralensis (Licorice) Root Extract",
+          "fungsi": "",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 16,
+          "nama": "Tetrasodium EDTA",
+          "fungsi": "",
+          "ewg": 2,
+          "cir": "A"
+        },
+        {
+          "id": 17,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "COSRX",
+      "merk": "AHA/BHA Clarifying Toner",
+      "deskripsi": "AHA/BHA Clarifying Toner",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "your-skin-bae.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Water",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 2,
+          "nama": "Salix Alba (Willow) Bark Water",
+          "fungsi": "Menenangkan kulit",
+          "ewg": "-",
+          "cir": "-"
+        },
+        {
+          "id": 3,
+          "nama": "Pyrus Malus (Apple) Fruit Water",
+          "fungsi": "-",
+          "ewg": 1,
+          "cir": "B"
+        },
+        {
+          "id": 4,
+          "nama": "Butylene glycol",
+          "fungsi": "Melembabkan kulit, pelarut, mengontrol kekentalan",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 5,
+          "nama": "Hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 6,
+          "nama": "Sodium lactate",
+          "fungsi": "Melembabkan kulit",
+          "ewg": 3,
+          "cir": "B"
+        },
+        {
+          "id": 7,
+          "nama": "Glycolic acid",
+          "fungsi": "Eksfolian, penyangga",
+          "ewg": 4,
+          "cir": "B"
+        },
+        {
+          "id": 8,
+          "nama": "Betaine salicylate",
+          "fungsi": "Eksfolian, antibakteri",
+          "ewg": 1,
+          "cir": "-"
+        },
+        {
+          "id": 9,
+          "nama": "Allantoin",
+          "fungsi": "Menenangkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 10,
+          "nama": "Panthenol",
+          "fungsi": "Menenangkan kulit, melembabkan kulit",
+          "ewg": 1,
+          "cir": "A"
+        },
+        {
+          "id": 11,
+          "nama": "Ethyl hexanediol",
+          "fungsi": "Pelarut",
+          "ewg": 3,
+          "cir": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Biore",
+      "merk": "Biore UV Aqua Rich Watery Essence Spf50+ Pa++++",
+      "deskripsi": "Biore UV Aqua Rich ...",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "Biore UV.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "AHC",
+      "merk": "Perfecting Eye Cream for Face",
+      "deskripsi": "Perfecting Eye Cream for Face",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "AHC Eye Cream.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Nacific",
+      "merk": "Fresh Herb Origin Serum",
+      "deskripsi": "Fresh Herb Origin Serum",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "Nacific.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Bio Oil",
+      "merk": "Skincare Oil",
+      "deskripsi": "Skincare Oil",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "Bio Oil.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Whitelab",
+      "merk": "Brightening Face Toner",
+      "deskripsi": "Brightening Face Toner",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "Whitelab.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Pyungkan Yul",
+      "merk": "Essence Toner",
+      "deskripsi": "Essence Toner",
+      "deskripsi_panjang": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "is_ready": true,
+      "gambar": "Pyungkang Yul.jpg",
+      "kandungans": [
+        {
+          "id": 1,
+          "nama": "Air",
+          "fungsi": "Pelarut",
+          "ewg": 1,
+          "cir": "-"
+        }
+      ]
+    }
+  ],
+  "kandungans": [
+    {
+      "id": 1,
+      "nama": "Hyaluronic Acid",
+      "nama_lain": "Hyaluronic Acid",
+      "nama_iupac": "Hyaluronic Acid",
+      "fungsi": "Antistatik, Humektan, Pelembab, Skin Conditioner",
+      "deskripsi": "Antistatik, Humektan, Pelembab, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        },
+        {
+          "id": 4,
+          "nama": "International Journal of Cosmetic Science, Volume 37 (4) – Aug 1, 2015, Stability determination of the formulations containing hyaluronic acid."
+        },
+        {
+          "id": 5,
+          "nama": "Journal of immunology, 2008 Aug 1, Low Molecular Weight Hyaluronic Acid Increases the Self-Defense of Skin Epithelium by Induction of β-Defensin 2 via TLR2 and TLR4."
+        },
+        {
+          "id": 6,
+          "nama": "SOFW Journal, 11-2008, M. Farwick, P. Lersch, G. Strutz (Evonik), Low Molecular Weight Hyaluronic Acid: Its Effects on Epidermal Gene Expression and Skin Ageing."
+        },
+        {
+          "id": 7,
+          "nama": "Journal of drugs in dermatology : JDD., 2011 Sep;10(9):990-1000., Efficacy of cream-based novel formulations of hyaluronic acid of different molecular weights in anti-wrinkle treatment."
+        },
+        {
+          "id": 8,
+          "nama": "The Journal of clinical and aesthetic dermatology., 2012 Oct;5(10):20-3., Efficacy and safety of a low-molecular weight hyaluronic Acid topical gel in the treatment of facial seborrheic dermatitis."
+        },
+        {
+          "id": 9,
+          "nama": "Journal of drugs in dermatology : JDD., June 2013 | Volume 12 | Issue 6, Efficacy and Tolerability of Low Molecular Weight Hyaluronic Acid Sodium Salt 0.2% Cream in Rosacea."
+        },
+        {
+          "id": 10,
+          "nama": "Journal of theoretical biology, 1986 Mar 21;119(2):219-34., A model for the role of hyaluronic acid and fibrin in the early events during the inflammatory response and wound healing."
+        },
+        {
+          "id": 11,
+          "nama": "The Journal of clinical investigation., 1996 Nov 15;98(10):2403-13., Hyaluronan (HA) fragments induce chemokine gene expression in alveolar macrophages. The role of HA size and CD44."
+        },
+        {
+          "id": 12,
+          "nama": "American journal of respiratory cell and molecular biology, 2011 October, Hyaluronan fragments promote inflammation by down-regulating the anti-inflammatory A2a receptor."
+        },
+        {
+          "id": 13,
+          "nama": "Immunol Res. Author manuscript; available in PMC 2014 Jul 22., Tissue integrity signals communicated by high-molecular weight hyaluronan and the resolution of inflammation."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    },
+    {
+      "id": 2,
+      "nama": "Glycerine",
+      "nama_lain": "Glycerol",
+      "nama_iupac": "Glycerine; Glycerol (Inn); Glycerol (Rifm); Glycerolum (Ep); Glycyl Alcohol; 1,2,3-Propanetriol; 1,2,3-Trihydroxypropane",
+      "fungsi": "Denaturant, Hair Conditioner, Humektan, Perawatan Mulut, Pewangi, Skin Conditioner, Pelindung Kulit, Pelarut, Pengontrol Kekentalan",
+      "deskripsi": "Denaturant, Hair Conditioner, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Tidak hanya sebagai pelembab",
+          "deskripsi": "Gliserin dapat menjaga lipid kulit diantara sel-sel kulit kita dalam keadaan sehat, melindungi dari iritasi, dan membantu memulihkan barrier."
+        },
+        {
+          "id": 2,
+          "nama": "Merawat kulit yang sangat kering",
+          "deskripsi": "Pelembab gliserin tinggi sangat bagus untuk merawat kulit yang sangat kering."
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Gliserin telah digunakan dalam kosmetik selama lebih dari 50 tahun dan merupakan bahan yang benar-benar alami yang juga berada di lapisan terluar kulit kita (disebut stratum korneum atau SC)."
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Gliserin adalah jenis pelembab yang disebut humektan yang berarti membantu kulit kita menempel pada air. Sebuah studi tahun 2005 telah menunjukkan bahwa kadar gliserin berkorelasi dengan tingkat hidrasi kulit, sehingga lebih banyak gliserin berarti kulit terhidrasi lebih baik."
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "Ketika studi baru meneliti gliserin, ternyata gliserin bukan hanya humektan sederhana tetapi juga melakukan beberapa hal penting lainnya, yaitu memastikan bahwa hal-hal lengket di antara sel-sel kulit tidak terlalu encer atau terlalu pekat (disebut osmoregulasi); membantu menjaga keadaan membran sel dan lipid intraseluler yang sehat (menjaga lipid dalam keadaan kristal cair yang bagus dan optimal untuk fungsi penghalang); dapat menormalkan kerontokan kulit pada kulit yang sangat kering; melindungi dari iritasi kulit (seperti mencuci muka terlalu banyak dan/atau terlalu agresif)."
+        },
+        {
+          "id": 4,
+          "sub_judul": null,
+          "deskripsi": "Sebuah studi skala besar yang dilakukan dengan 394 pria dan wanita dengan kulit kering membandingkan dua pelembab gliserin tinggi (mengandung 25% dan 40% gliserin) dengan 16 pelembab populer lainnya di pasaran (yang memiliki kurang dari 6% gliserin). Dua yang tinggi gliserin menang telak. Mereka memiliki sifat hidrasi yang unggul dan bertindak cepat dan mereka juga tampaknya menciptakan 'reservoir' kemampuan menahan kelembaban di kulit. Bahkan setelah tidak menggunakan pelembab gliserin tinggi, kulit tetap terhidrasi lebih lama dibandingkan dengan semua pelembab gliserin rendah lainnya."
+        },
+        {
+          "id": 5,
+          "sub_judul": null,
+          "deskripsi": "100% gliserin murni juga tidak baik untuk kulit. Terlalu banyak gliserin (dan pada umumnya humektan) dapat menarik air keluar dari lapisan bawah kulit. Itu menjadi masalah karena begitu air berada di lapisan atas, sebagian akan menguap. Hal ini disebut trans-epidermal-water-loss (TEWL). Jika terlalu banyak TEWL terjadi, maka kulit menjadi kering."
+        },
+        {
+          "id": 6,
+          "sub_judul": null,
+          "deskripsi": "Hal ini dikonfirmasi oleh sebuah penelitian juga: kulit yang diberi 99,7% gliserin selama 5 hari menunjukkan bahwa setelah perawatan, SC (lapisan terluar dari kulit) tidak terlihat berbeda dari kontrol yang tidak diobati. Studi yang sama juga memeriksa kulit yang dirawat dengan lotion gliserin 25% dan disana SC memiliki penampilan yang tampak berbeda, mengembang - dengan kata lain lebih terhidrasi."
+        }
+      ],
+      "kesimpulan":"Jadi intinya: gliserin adalah barang yang nyata dan jauh lebih dari sekadar pelembab sederhana.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Leslie Baumann, MD, Cosmetic Dermatology, 2nd edition, Glycerin- pages 275."
+        },
+        {
+          "id": 2,
+          "nama": "The Journal of investigative dermatology., 2005 Aug;125(2):288-93., Is endogenous glycerol a determinant of stratum corneum hydration in humans?."
+        },
+        {
+          "id": 3,
+          "nama": "Dry Skin and Moisturizers: Chemistry and Function, Marie Loden, Howard I. Maibach, chapter 20: Glycerol — Just a Moisturizer? Biological and Biophysical Effects."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Glycerin.png"
+    },
+    {
+      "id": 3,
+      "nama": "Ascorbic Acid",
+      "nama_lain": "Vitamin C, L-ascorbic Acid",
+      "nama_iupac": "Ascorbic Acid",
+      "fungsi": "Antioksidan, Buffering, Masking, Skin Conditioner",
+      "deskripsi": "Antioksidan, Buffering, Masking, dll",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Meningkatkan produksi kolagen kulit sendiri",
+          "deskripsi": null
+        },
+        {
+          "id": 2,
+          "nama": "Memudarkan pigmentasi dan bintik-bintik coklat",
+          "deskripsi": null
+        },
+        {
+          "id": 3,
+          "nama": "Jika digunakan di bawah sunscreen akan meningkatkan perlindungan UV-nya",
+          "deskripsi": null
+        },
+        {
+          "id": 4,
+          "nama": "Sangat tidak stabil dan sangat mudah teroksidasi dengan adanya cahaya atau udara",
+          "deskripsi": null
+        },
+        {
+          "id": 5,
+          "nama": "Vit E + C bekerja secara sinergis dan memberikan perlindungan foto yang luar biasa",
+          "deskripsi": null
+        },
+        {
+          "id": 6,
+          "nama": "Asam ferulat menggandakan efek fotoproteksi Vit C+E dan membantu menstabilkan Vitamin C",
+          "deskripsi": null
+        },
+        {
+          "id": 7,
+          "nama": "Serum vitamin C dapat menyebabkan sedikit kesemutan pada kulit sensitif",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Pada abad ke-18 para pelaut memperhatikan bahwa jika mereka makan banyak buah jeruk yang membantu mencegah penyakit kudis (penyakit jelek yang menyebabkan gusi berdarah dan hal-hal buruk lainnya - yang disebabkan oleh kekurangan Vit C). Pada saat itu mereka tidak tahu apa yang ada di dalam buah jeruk yang dapat membantu. Para ilmuwan hanya berhasil mengetahui pada tahun 1930-an apa itu Vitamin C."
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Sejak itu telah banyak diteliti, vitamin yang ternyata memiliki manfaat kesehatan yang luar biasa tidak hanya untuk tubuh kita tetapi juga untuk kulit kita. Ini adalah antioksidan utama yang larut dalam air di jaringan kita dan memainkan peran besar dalam proses rumit di mana kulit kita menciptakan kolagen baru yang mengencangkan kulit."
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "Jadi sangat baik memiliki banyak Vit C di tubuh kita dan di kulit kita, tetapi tubuh kita tidak dapat membuatnya sendiri (fakta menyenangkan: beberapa hewan, seperti tikus bisa!). Kita harus mengambil seluruhnya dari sumber luar seperti buah jeruk, kismis hitam, paprika merah atau jambu biji misalnya adalah makanan kaya Vit C yang luar biasa yang harus dimakan secara teratur."
+        },
+        {
+          "id": 4,
+          "sub_judul": null,
+          "deskripsi": "Mengoleskan krim atau serum Vit C pada kulit kita benar-benar membantu dalam hal berikut ini:"
+        },
+        {
+          "id": 5,
+          "sub_judul": "Penguat antioksidan dan perlindungan UV yang hebat",
+          "deskripsi": "Beberapa penelitian menunjukkan bahwa kulit hewan yang diobati dengan asam askorbat topikal memiliki lebih sedikit kemerahan pada kulit (disebut eritema), lebih sedikit sel kulit yang terbakar sinar matahari, dan penurunan pembentukan tumor setelah paparan sinar UV."
+        },
+        {
+          "id": 6,
+          "sub_judul": null,
+          "deskripsi": "Sehingga bagus untuk menggunakan serum Vit C di pagi hari di bawah sunscreen (bukan sebagai gantinya!). Untuk perlindungan yang lebih baik, pilihlah serum yang mengandung Vit E serta menggandakan sifat fotoproteksi Vit C. Asam ferulat menggandakan lebih lanjut fotoproteksi Vit C + E."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Jadi trio ini, Vit C + E + asam Ferulat benar-benar efektif. Jika Anda ingin melindungi kulit Anda dari sinar UV (dan seharusnya jika Anda menginginkan kulit yang indah untuk waktu yang lama), Anda harus mencoba serum yang mengandung trio ajaib. (ini ditemukan oleh peneliti Amerika, Sheldon Pinnell pada tahun 2005 dan Skinceuticals CE Ferulic Serum adalah yang pertama di pasaran yang mengandung ketiga bahan aktif tersebut)."
+        },
+        {
+          "id": 8,
+          "sub_judul": "Membantu kulit membuat kolagen yang bagus",
+          "deskripsi": "Kolagen membantu menjaga kulit kita tetap kencang dan bebas kerut. Meningkatkan produksi kolagen dapat dilakukan oleh vitamin C. Dalam sebuah penelitian dari tahun 1999, serum Vit C 10% (Cellex-C) terbukti mengurangi kerutan ketika diterapkan selama periode 3 bulan. Beberapa tahun kemudian, penelitian lain menggunakan krim 5% Vit C selama periode 6 bulan menunjukkan peningkatan yang signifikan secara statistik dalam hidrasi kulit, kerutan, silau, bintik-bintik coklat, dan kepadatan kulit."
+        },
+        {
+          "id": 9,
+          "sub_judul": "Memudarkan flek coklat",
+          "deskripsi": "Bintik-bintik coklat atau hiperpigmentasi tidak bagus dan sejujurnya sangat sulit untuk memudar hanya dengan perawatan kulit, tapi Vit C bisa membantu. Agar bintik-bintik coklat terbentuk di dalam tubuh, diperlukan enzim (zat yang membantu reaksi kimia dalam tubuh kita) yang disebut tirosinase. Vit C bekerja dengan cara menghambat enzim ini sehingga bintik-bintik coklat tidak dapat terbentuk secara efektif."
+        },
+        {
+          "id": 10,
+          "sub_judul": "Namun, Vit C memiliki kekurangan antara lain:",
+          "deskripsi": "- Sangat tidak stabil, sangat mudah teroksidasi"
+        },
+        {
+          "id": 11,
+          "sub_judul": null,
+          "deskripsi": "- Jika Anda pernah mencoba serum Vit C murni dan Anda belum menggunakannya dalam satu atau dua bulan maka Anda pasti memperhatikan bahwa kulit berubah warna dan mulai menjadi kecoklatan. Itu adalah contoh Vit C yang salah dalam produk."
+        },
+        {
+          "id": 12,
+          "sub_judul": null,
+          "deskripsi": "- Tidak mudah menembus kulit"
+        },
+        {
+          "id": 13,
+          "sub_judul": null,
+          "deskripsi": "- Vit C larut dalam air dan kulit tidak tertarik pada hal-hal yang larut dalam air melainkan pada hal-hal yang larut dalam minyak. Jadi ini membuatnya sedikit sulit bagi Vit C untuk benar-benar masuk ke kulit Anda. Tapi kabar baiknya: pH rendah (sekali lagi di bawah 3,5 pH) memecahkan masalah, jadi carilah serum Vit C berbasis air yang menyatakan bahwa mereka memiliki pH yang tepat atau formula tanpa air juga bisa bekerja."
+        },
+        {
+          "id": 14,
+          "sub_judul": null,
+          "deskripsi": "- Jumlah Vit C yang tinggi dapat mengiritasi kulit sensitif"
+        },
+        {
+          "id": 15,
+          "sub_judul": null,
+          "deskripsi": "- Sedikit kesemutan cukup normal tetapi jika kulit Anda super sensitif, rosacea rawan terhadap serum Vit C yang sangat kuat (di atas 10%)."
+        }
+      ],
+      "kesimpulan":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Journal of Cosmetic Dermatology, Volume 11 (4) – Dec 1, 2012, Stability, transdermal penetration, and cutaneous effects of ascorbic acid and its derivatives."
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Cosmetic Dermatology, Volume 4 (1) – Jan 1, 2005, Relevance of vitamins C and E in cutaneous photoprotection."
+        },
+        {
+          "id": 3,
+          "nama": "Dermatologic Surgery, Volume 27 (2) – Feb 1, 2001, Topical L‐Ascorbic Acid: Percutaneous Absorption Studies."
+        },
+        {
+          "id": 4,
+          "nama": "The Journal of investigative dermatology., 2005 Oct;125(4):826-32., Ferulic acid stabilizes a solution of vitamins C and E and doubles its photoprotection of skin."
+        },
+        {
+          "id": 5,
+          "nama": "Arch Otolaryngol Head Neck Surg. 1999;125(10):1091-1098., Use of Topical Ascorbic Acid and Its Effects on Photodamaged Skin Topography."
+        },
+        {
+          "id": 6,
+          "nama": "Exp Dermatol. 2003 Jun;12(3):237-44.,Topical ascorbic acid on photoaged skin."
+        },
+        {
+          "id": 7,
+          "nama": "International Journal of Pharmaceutics, Volume 133 (1)– May 14, 1996, Glutathione stabilizes ascorbic acid in aqueous solution."
+        },
+        {
+          "id": 8,
+          "nama": "International Journal of Pharmaceutics, Sep 28, 2006, , Volume 322 (1) – Influence of sodium metabisulfite and glutathione on the stability of vitamin C in O/W emulsion and extemporaneous aqueous gel."
+        },
+        {
+          "id": 9,
+          "nama": "Leslie Baumann, MD, Cosmetic Dermatology, 2nd edition, Vitamin C - pages 297-298."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    },
+    {
+      "id": 4,
+      "nama": "Asam Oleic",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    },
+    {
+      "id": 5,
+      "nama": "Niacinamide",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Niacinamid.png"
+    },
+    {
+      "id": 6,
+      "nama": "Alkohol Denat",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Alkohol denat.png"
+    },
+    {
+      "id": 7,
+      "nama": "Asam Salisilat",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Salicylic Acid.png"
+    },
+    {
+      "id": 8,
+      "nama": "Glukonolakton",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "hyaluronic-acid.png"
+    },
+    {
+      "id": 9,
+      "nama": "Allantoin",
+      "nama_lain": "Asam Hyaluronik",
+      "nama_iupac": "Asam Hyaluronik",
+      "fungsi": "Asam Hyaluronik",
+      "deskripsi": "Bahan yang mirip kulit",
+      "manfaat": [
+        {
+          "id": 1,
+          "nama": "Hidrator permukaan yang sangat baik",
+          "deskripsi": "Pelindung kulit dan dapat bertindak sebagai pompa osmotik yang membantu zat aktif yang larut dalam air untuk menembus ke dalam kulit."
+        },
+        {
+          "id": 2,
+          "nama": "Menghidrasi kulit lebih dalam",
+          "deskripsi": "Dapat menghidrasi kulit lebih dalam meskipun masih berupa molekul besar dan bekerja terutama di epidermis (lapisan luar kulit)."
+        },
+        {
+          "id": 3,
+          "nama": "Meningkatkan pertahanan kulit",
+          "deskripsi": "Membantu kulit memperbaiki dirinya sendiri."
+        },
+        {
+          "id": 4,
+          "nama": "Sebagai molekul sinyal pro-inflamasi",
+          "deskripsi": null
+        }
+      ],
+      "detail": [
+        {
+          "id": 1,
+          "sub_judul": null,
+          "deskripsi": "Asam hialuronat (HA) adalah molekul gula besar yang bagus dari subunit berulang (polimer) yang dapat ditemukan secara alami di tubuh kita. Ini adalah molekul paling dominan dan paling penting dalam cairan diantara sel-sel kulit kita (nama ilmiahnya adalah matriks ekstraseluler atau ECM). Orang dewasa 70 kg memiliki sekitar 15 g HA di tubuhnya, dan setengahnya ada di kulit. Sebagian besar HA kulit berada di dermis (lapisan yang lebih dalam - sekitar 0,5 mg/kg) tetapi ada juga di epidermis (lapisan atas - sekitar 0,1 mg/kg)."
+          
+        },
+        {
+          "id": 2,
+          "sub_judul": null,
+          "deskripsi": "Karena HA adalah polimer, sub unitnya dapat diulang berkali-kali atau hanya beberapa kali dan dengan demikian ada versi berat molekul yang berbeda. Tidak ada definisi yang sangat jelas tentang apa yang dianggap sebagai berat molekul tinggi atau berat molekul rendah, tetapi kira-kira seperti ini:"
+        },
+        {
+          "id": 3,
+          "sub_judul": null,
+          "deskripsi": "HA dengan berat molekul tinggi, atau HMW-HA: 500 ribu - 4 juta Dalton. Sedangkan HA dengan berat molekul rendah, atau LMW-HA: 500 ribu Dalton ke bawah."
+        },
+        {
+          "id": 4,
+          "sub_judul": "HMW-HA di Kulit",
+          "deskripsi": "Anggap saja sebagai spons. HMW-HA memiliki kemampuan mengikat 1000 kali beratnya sendiri dalam air. Atau dengan kata lain 1 gram HA dapat mengikat hingga 6 liter air dan ini membuat HA menjadi bahan pengikat air terbaik yang kita kenal sekarang.  Tidak hanya itu, HA memiliki banyak fungsi biologis penting lainnya. Terlepas dari hidrasi, fungsi yang berhubungan dengan kulit termasuk menjaga elastisitas kulit, mengurangi respons inflamasi kulit, meregenerasi penghalang kulit yang rusak dan menambah kerutan terkait kehilangan air. Intinya, membantu kulit agar terlihat dan terasa sehat dan muda."
+        },
+        {
+          "id": 5,
+          "sub_judul": "HMW-HA di Wajah",
+          "deskripsi": "Perlu diketahui bahwa HMW-HA kemungkinan besar tidak menembus kulit. Ada sebuah penelitian dari tahun 1999 yang berpikir bahwa HA dapat menyerap ke dalam kulit melalui beberapa mekanisme transpor aktif, namun, kami tidak dapat menemukan apa pun untuk mengkonfirmasi hal ini. Apa yang dapat kami temukan adalah berbagai pendapat ahli dan studi baru yang menyatakan HMW-HA adalah molekul besar yang tetap berada di atas kulit untuk memberikan hidrasi permukaan dan membentuk penghalang pelindung."
+        },
+        {
+          "id": 7,
+          "sub_judul": null,
+          "deskripsi": "Tidak hanya itu, tetapi juga dapat berfungsi sebagai ‘pompa osmotik’, artinya dapat menjadi penambah penetrasi untuk zat aktif yang larut dalam air. Seperti yang dikatakan ahli kimia kosmetik di Realize Beauty, HA dapat menjadi ‘sistem pengiriman osmotik yang dapat mendorong zat aktif yang larut dalam air lebih dalam ke dalam kulit dengan membentuk reservoir yang sangat terhidrasi di permukaan kulit’."
+        },
+        {
+          "id": 8,
+          "sub_judul": "LMW-HA di Kulit",
+          "deskripsi": "Fungsi biologis LMW-HA di kulit tampaknya sangat rumit dan berbeda dari HMW-HA. LMW-HA sebagian besar dibuat ketika HMW-HA dipotong menjadi potongan-potongan kecil di lokasi cedera dan dianggap sebagai molekul sinyal pro-inflamasi yang mengatakan ‘bahaya, bahaya, bawa beberapa peradangan dan perbaiki diri Anda sendiri’."
+        },
+        {
+          "id": 9,
+          "sub_judul": "LMW-HA di Wajah",
+          "deskripsi": "Berdasarkan peran biologis LMW-HA, pertanyaannya logis: apakah LMW-HA proinflamasi ketika kita mengoleskannya? Sebagian besar bukti sejauh ini menunjukkan tidak, setidaknya dalam hal berat molekul dalam kisaran 50 kDa dan lebih tinggi."
+        },
+        {
+          "id": 13,
+          "sub_judul": "Pertama,",
+          "deskripsi": "LMW-HA masih merupakan molekul besar-besar yang penetrasinya dipertanyakan. Ini mungkin menyerap sedikit lebih baik daripada HMW-HA, tetapi masih berarti bekerja sebagian besar di epidermis, lapisan paling atas kulit."
+        },
+        {
+          "id": 14,
+          "sub_judul": "Kedua,",
+          "deskripsi": "kami menemukan beberapa penelitian yang menunjukkan bahwa LMW-HA dapat membantu kulit untuk memperbaiki dirinya sendiri. Satu studi menunjukkan bahwa 0,2 % LMW-HA (200 kDa digunakan dalam penelitian ini) meningkatkan pertahanan diri kulit dan dua penelitian lainnya menemukan LMW-HA (juga dalam 0,2%) bermanfaat untuk penyakit kulit terkait peradangan seperti rosacea dan dermatitis seboroik wajah."
+        },
+        {
+          "id": 15,
+          "sub_judul": "Ketiga,",
+          "deskripsi": "studi terkait produsen (dilakukan oleh Evonik) menemukan bahwa versi HA dengan berat molekul 50 kDa ke atas tidak menginduksi sinyal inflamasi di kulit, namun, versi 20 kDa memang menunjukkan beberapa aktivitas proinflamasi. Memang, ini dilakukan pada epidermis manusia yang dilarutkan, jadi mungkin atau mungkin tidak seperti ini pada kulit manusia asli. BTW, mereka juga menemukan in-vivo (pada orang sungguhan) bahwa versi LMW-HA, terutama yang dengan 50 kDa MW dapat menambah kerutan dengan sangat baik."
+        }
+      ],
+      "kesimpulan":"Jadi berdasarkan peran biologis LMW-HA dan studi Evonik, Anda mungkin ingin berhati-hati dengan berat molekul ultra-rendah, yang di bawah 50 kDa. Namun, ini juga bukan hal yang pasti. Kami juga melihat data pabrikan yang menunjukkan bahwa versi HA dengan berat molekul 10kDa memiliki aktivitas antioksidan yang lebih baik daripada versi 1.6MDa dan juga memiliki perlindungan matahari dan kemampuan perbaikan setelah matahari yang lebih baik daripada versi MW yang lebih tinggi. Kami benar-benar tidak dapat memberitahu Anda jawaban yang pasti. Tebakan terbaik kami adalah jika Anda adalah tipe yang berhati-hati, hindari versi MW ultra-rendah, tetapi LMW-HA ‘normal’ tampaknya tidak masalah.",
+      "sumber": [
+        {
+          "id": 1,
+          "nama": "Dermato-endocrinology, Jul 1, 2012, Hyaluronic acid: A key molecule in skin aging"
+        },
+        {
+          "id": 2,
+          "nama": "Journal of Drugs in Dermatology, January 2016, Rejuvenating Hydrator: Restoring Epidermal Hyaluronic Acid Homeostasis With Instant Benefits"
+        },
+        {
+          "id": 3,
+          "nama": "The Journal of investigative dermatology., 1999 Nov;113(5):740-6., Absorption of hyaluronan applied to the surface of intact skin."
+        }
+      ],
+      "is_ready": true,
+      "gambar": "Allantoin.png"
+    }
+  ]
+}

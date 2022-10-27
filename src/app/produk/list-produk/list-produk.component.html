@@ -1,5 +1,7 @@
 <div class="row">
   <div class="col-xs-12">
-    <app-item-produk></app-item-produk>
+    <app-item-produk
+    *ngFor="let produkEl of produks"
+    [produk]="produkEl"></app-item-produk>
   </div>
 </div>

@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { Kandungan } from '../../kandungan.model';
 
 @Component({
   selector: 'app-item-kandungan',
@@ -6,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./item-kandungan.component.css']
 })
 export class ItemKandunganComponent implements OnInit {
+
+  @Input() kandungan: Kandungan;
 
   constructor() { }
 
