@@ -32,8 +32,8 @@
     <!-- content didalam navbar ketika collapse -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{'collapse': collapsed, 'navbar-collapse': true}">
 
-      <!-- navbar utama sisi kanan -->
-      <div class="navbar-nav nav ms-auto">
+      <!-- navbar utama sisi kiri -->
+      <div class="navbar-nav nav me-auto">
         <ul class="navbar-nav mt-1 mb-2 mb-lg-0">
           <li class="nav-item">
             <a href="/" class="nav-link">Beranda</a>
@@ -46,8 +46,14 @@
           <li class="nav-item">
             <a href="#" class="nav-link" (click)="onSelect('produk')">Produk</a>
           </li>
+        </ul>
+      </div>
+
+      <!-- navbar utama sisi kanan -->
+      <div class="navbar-nav nav ms-auto">
+        <ul class="navbar-nav mt-1 mb-2 mb-lg-0">
           <li class="nav-item">
-            <a href="#" class="nav-link" (click)="onSelect('list-belanja')">Daftar Belanja Anda</a>
+            <a href="#" class="nav-link" (click)="onSelect('list-belanja')">Wishlistku</a>
           </li>
         </ul>
       </div>

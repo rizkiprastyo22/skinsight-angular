@@ -1,5 +1,6 @@
-import { Component, Input, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Produk } from '../../produk.model';
+import { ProdukService } from '../../produk.service';
 
 @Component({
   selector: 'app-item-produk',
@@ -11,17 +12,14 @@ export class ItemProdukComponent implements OnInit {
   // menginisilisasi object produk dari model
   @Input() produk: Produk;
 
-  // menginisilisasi variabel 'produk yang dipilih'
-  @Output() produkSelected = new EventEmitter<Produk>();
-
-  constructor() { }
+  constructor(private produkService: ProdukService) { }
 
   ngOnInit(): void {
   }
 
   // fungsi ketika ada produk yang dipilih
   onSelected(){
-    this.produkSelected.emit();
+    this.produkService.produkSelected.emit(this.produk);
   }
 
 }

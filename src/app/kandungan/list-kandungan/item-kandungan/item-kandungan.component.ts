@@ -1,5 +1,6 @@
-import { Component, Input, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Kandungan } from '../../kandungan.model';
+import { KandunganService } from '../../kandungan.service';
 
 @Component({
   selector: 'app-item-kandungan',
@@ -11,17 +12,13 @@ export class ItemKandunganComponent implements OnInit {
   // mendefinisikan object baru berdasarkan model
   @Input() kandungan: Kandungan;
 
-  // mendefinisikan variabel 'object yang dipilih'
-  @Output() kandunganSelected = new EventEmitter<Kandungan>();
-
-  constructor() { }
+  constructor(private kandunganService: KandunganService) { }
 
   ngOnInit(): void {
   }
 
-  // fungsi ketika ada kandungan yang sudah dipilih
   onSelected(){
-    this.kandunganSelected.emit();
+    this.kandunganService.kandunganSelected.emit(this.kandungan);
   }
 
 }
