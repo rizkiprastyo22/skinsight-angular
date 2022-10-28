@@ -1,0 +1,30 @@
+<div class="row m-3">
+  <div class="col-xs-12">
+
+    <!-- Form edit belanja -->
+    <form>
+
+      <!-- Input belanja -->
+      <div class="row">
+        <div class="col-sm-5 form-group">
+          <label for="nama">Nama</label>
+          <input type="text" class="form-control" id="nama" #inputNama>
+        </div>
+        <div class="col-sm-2 form-group">
+          <label for="jumlah">Jumlah</label>
+          <input type="text" class="form-control" id="jumlah" #inputJumlah>
+        </div>
+      </div>
+
+      <!-- Tombol edit daftar belanja -->
+      <div class="row mt-3">
+        <div class="col-xs-12">
+          <button class="btn btn-outline-success" (click)="onTambahItem()">Tambah Belanja</button>
+          <button class="btn btn-outline-danger ms-3" (click)="onHapusItem()">Hapus Belanja</button>
+        </div>
+      </div>
+
+    </form>
+
+  </div>
+</div>

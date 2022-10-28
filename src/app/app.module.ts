@@ -15,6 +15,8 @@ import { ItemKandunganComponent } from './kandungan/list-kandungan/item-kandunga
 import { ListProdukComponent } from './produk/list-produk/list-produk.component';
 import { DetailProdukComponent } from './produk/detail-produk/detail-produk.component';
 import { ItemProdukComponent } from './produk/list-produk/item-produk/item-produk.component';
+import { ListBelanjaComponent } from './list-belanja/list-belanja.component';
+import { EditBelanjaComponent } from './list-belanja/edit-belanja/edit-belanja.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,9 @@ import { ItemProdukComponent } from './produk/list-produk/item-produk/item-produ
     ItemKandunganComponent,
     ListProdukComponent,
     DetailProdukComponent,
-    ItemProdukComponent
+    ItemProdukComponent,
+    ListBelanjaComponent,
+    EditBelanjaComponent
   ],
   imports: [
     BrowserModule
