@@ -17,9 +17,15 @@ export class serviceListBelanja{
     return this.belanjas.slice();
   }
 
-  // fungsi nambah barang belanja baru
+  // fungsi nambah belanja
   addBelanja(belanja: Belanja){
     this.belanjas.push(belanja);
+    this.BelanjaChanged.emit(this.belanjas.slice());
+  }
+
+  // fungsi nambah barang belanja baru
+  addBelanjas(belanja: Belanja[]){
+    this.belanjas.push(...belanja);
     this.BelanjaChanged.emit(this.belanjas.slice());
   }
 }

@@ -1,7 +1,10 @@
-import { EventEmitter } from "@angular/core";
+import { EventEmitter, Injectable } from "@angular/core";
+import { serviceListBelanja } from "../list-belanja/list-belanja-service";
 import { BelanjaProduk } from "../shared/belanja-produk.model";
 import { Produk } from "./produk.model";
 
+// menambahkan dependecy injection pada object produk
+@Injectable()
 export class ProdukService{
 
   // buat variabel kandunganSelected dari Model
@@ -25,8 +28,16 @@ export class ProdukService{
       ])
   ];
 
+  // definisi service
+  constructor(private serviceListBelanja: serviceListBelanja){}
+
   // ambil data instances
   getProduk(){
     return this.produks.slice();
+  }
+
+  // membuat fungsi dependecy menambah produk ke wishlist
+  addProdukKeWishlist(belanjaProduks: BelanjaProduk[]){
+    this.serviceListBelanja.addBelanjas(belanjaProduks);
   }
 }
