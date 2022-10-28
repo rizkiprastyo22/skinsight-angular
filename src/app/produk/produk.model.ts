@@ -1,3 +1,5 @@
+import { BelanjaProduk } from "../shared/belanja-produk.model";
+
 // inisialisasi variabel pada object produk
 export class Produk{
   public id: number = 0;
@@ -7,9 +9,10 @@ export class Produk{
   public deskripsi_panjang: String;
   public is_ready: boolean = true;
   public gambar: String;
+  public belanja_produk: BelanjaProduk[];
 
   constructor(id: number, nama: String, merk: String, deskripsi: String,
-    deskripsi_panjang: String, is_ready: boolean, gambar: String) {
+    deskripsi_panjang: String, is_ready: boolean, gambar: String, belanja_produk: BelanjaProduk[]) {
       this.id = id;
       this.nama = nama;
       this.merk = merk;
@@ -17,5 +20,6 @@ export class Produk{
       this.deskripsi_panjang = deskripsi_panjang;
       this.is_ready = is_ready;
       this.gambar = gambar;
+      this.belanja_produk = belanja_produk;
     }
 }

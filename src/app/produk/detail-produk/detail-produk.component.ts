@@ -11,6 +11,7 @@ export class DetailProdukComponent implements OnInit {
   // inisialisasi variabel produk dari model
   @Input() produk: Produk;
 
+  // inisialisasi service
   constructor() { }
 
   ngOnInit(): void {
