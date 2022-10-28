@@ -1,6 +1,6 @@
 import { EventEmitter, Injectable } from "@angular/core";
+import { Belanja } from "../list-belanja/belanja.model";
 import { serviceListBelanja } from "../list-belanja/list-belanja-service";
-import { BelanjaProduk } from "../shared/belanja-produk.model";
 import { Produk } from "./produk.model";
 
 // menambahkan dependecy injection pada object produk
@@ -17,14 +17,14 @@ export class ProdukService{
       'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!',
       true, 'madagascar-centella-toning.jpg',
       [
-        new BelanjaProduk('Skin10004', 1)
+        new Belanja('Skin10004', 1)
       ]),
     new Produk(2, 'Lacoco en nature', 'Darkspot Essence',
       'Darkspot Essence',
       'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero illo inventore voluptatem praesentium enim nobis! Corporis rem laudantium explicabo optio veritatis harum, cupiditate voluptatibus, molestias porro odit aspernatur reprehenderit totam!',
       true, 'miracle-toner.jpg',
       [
-        new BelanjaProduk('Lacoco en nature', 1)
+        new Belanja('Lacoco en nature', 1)
       ])
   ];
 
@@ -37,7 +37,7 @@ export class ProdukService{
   }
 
   // membuat fungsi dependecy menambah produk ke wishlist
-  addProdukKeWishlist(belanjaProduks: BelanjaProduk[]){
+  addProdukKeWishlist(belanjaProduks: Belanja[]){
     this.serviceListBelanja.addBelanjas(belanjaProduks);
   }
 }

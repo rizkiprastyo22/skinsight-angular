@@ -1,5 +1,5 @@
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
-import { BelanjaProduk } from 'src/app/shared/belanja-produk.model';
+import { Belanja } from '../belanja.model';
 import { serviceListBelanja } from '../list-belanja-service';
 
 @Component({
@@ -21,7 +21,7 @@ export class EditBelanjaComponent implements OnInit {
   onTambahItem(): void {
     const namaBelanja = this.inputNamaRef.nativeElement.value;
     const jumlahBelanja = this.inputJumlahRef.nativeElement.value;
-    const newBelanja = new BelanjaProduk(namaBelanja, jumlahBelanja);
+    const newBelanja = new Belanja(namaBelanja, jumlahBelanja);
     this.serviceListBelanja.addBelanja(newBelanja);
   }
 
