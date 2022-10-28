@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Belanja } from './belanja.model';
+import { serviceListBelanja } from './list-belanja-service';
 
 @Component({
   selector: 'app-list-belanja',
@@ -9,18 +10,18 @@ import { Belanja } from './belanja.model';
 export class ListBelanjaComponent implements OnInit {
 
   // buat list-belanja dari model
-  belanjas: Belanja[] = [
-    new Belanja('Skin10004', 1),
-    new Belanja('Whitelab', 2),
-  ];
+  belanjas: Belanja[] = [];
 
-  constructor() { }
+  constructor(private serviceListBelanja: serviceListBelanja) { }
 
   ngOnInit(): void {
-  }
-
-  onTambahBelanja(belanja: Belanja){
-    this.belanjas.push(belanja);
+    this.belanjas = this.serviceListBelanja.getBelanja();
+    this.serviceListBelanja.BelanjaChanged
+    .subscribe(
+      (belanjas: Belanja[]) => {
+        this.belanjas = belanjas;
+      }
+    )
   }
 
 }

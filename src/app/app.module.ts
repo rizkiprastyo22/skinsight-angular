@@ -17,6 +17,7 @@ import { DetailProdukComponent } from './produk/detail-produk/detail-produk.comp
 import { ItemProdukComponent } from './produk/list-produk/item-produk/item-produk.component';
 import { ListBelanjaComponent } from './list-belanja/list-belanja.component';
 import { EditBelanjaComponent } from './list-belanja/edit-belanja/edit-belanja.component';
+import { serviceListBelanja } from './list-belanja/list-belanja-service';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,7 @@ import { EditBelanjaComponent } from './list-belanja/edit-belanja/edit-belanja.c
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [serviceListBelanja],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

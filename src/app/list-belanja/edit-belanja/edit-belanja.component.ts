@@ -1,5 +1,6 @@
-import { Component, ElementRef, OnInit, Output, ViewChild, EventEmitter } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { Belanja } from '../belanja.model';
+import { serviceListBelanja } from '../list-belanja-service';
 
 @Component({
   selector: 'app-edit-belanja',
@@ -11,9 +12,8 @@ export class EditBelanjaComponent implements OnInit {
   // inisialisasi variabel input
   @ViewChild('inputNama') inputNamaRef: ElementRef;
   @ViewChild('inputJumlah') inputJumlahRef: ElementRef;
-  @Output() tambahBelanja = new EventEmitter<Belanja>();
 
-  constructor() { }
+  constructor(private serviceListBelanja: serviceListBelanja) { }
 
   ngOnInit(): void {
   }
@@ -22,7 +22,7 @@ export class EditBelanjaComponent implements OnInit {
     const namaBelanja = this.inputNamaRef.nativeElement.value;
     const jumlahBelanja = this.inputJumlahRef.nativeElement.value;
     const newBelanja = new Belanja(namaBelanja, jumlahBelanja);
-    this.tambahBelanja.emit(newBelanja);
+    this.serviceListBelanja.addBelanja(newBelanja);
   }
 
   onHapusItem(): void {
